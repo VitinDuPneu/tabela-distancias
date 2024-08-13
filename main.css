@@ -1,0 +1,10 @@
+table, tr td{
+    border: solid 1px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+#cor{
+    background-color: black;
+}
