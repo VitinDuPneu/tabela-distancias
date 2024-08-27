@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto - tabela-distancias
 
 Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvomento ministrada pelo professor Leonardo Rocha.
@@ -13,6 +12,10 @@ O projeto consiste na composição  de uma tabela que conta com capitais brasile
 * BRASÍLIA
 * CAMPO GRANDE
 * CUIABÁ
+
+### Resultado do projeto
+
+![Resultado Final do projet]()
 
 ## Índice
 
@@ -45,16 +48,3 @@ O projeto foi desenvolvido pelo grupo:
 * Mariane Lima Remonte Viana
 * Vitor Gabriel de Souza
 * Vivian Oliveira Almeida
-=======
-# Projeto - Tabela com distância entre capitais
-
-## Índice
-*
-## Descrição
-
-## Tecnolgias
-
-## Referência
-
-## Autor(a)
->>>>>>> 96f865de08e0a2a3e5d3a52805a33e7b9a4311c7
